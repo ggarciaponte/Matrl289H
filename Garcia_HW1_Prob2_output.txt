@@ -1,0 +1,340 @@
+The factor group operations for a diamond cubic structure are: 
+
+Factor group operation 1:
+Point group operation: 
+-1  0  0
+ 0 -1  0
+ 0  0 -1
+
+Translation: 
+0.25
+0.25
+0.25
+
+
+Factor group operation 2:
+Point group operation: 
+-1  0  0
+ 0 -1  0
+ 0  0 -1
+
+Translation: 
+0.25
+0.25
+0.25
+
+
+Factor group operation 3:
+Point group operation: 
+ 0 -1  0
+-1  0  0
+ 0  0 -1
+
+Translation: 
+0.25
+0.25
+0.25
+
+
+Factor group operation 4:
+Point group operation: 
+ 0 -1  0
+-1  0  0
+ 0  0 -1
+
+Translation: 
+0.25
+0.25
+0.25
+
+
+Factor group operation 5:
+Point group operation: 
+ 0  0 -1
+ 0 -1  0
+-1  0  0
+
+Translation: 
+0.25
+0.25
+0.25
+
+
+Factor group operation 6:
+Point group operation: 
+ 0  0 -1
+ 0 -1  0
+-1  0  0
+
+Translation: 
+0.25
+0.25
+0.25
+
+
+Factor group operation 7:
+Point group operation: 
+ 0  0 -1
+-1  0  0
+ 0 -1  0
+
+Translation: 
+0.25
+0.25
+0.25
+
+
+Factor group operation 8:
+Point group operation: 
+ 0  0 -1
+-1  0  0
+ 0 -1  0
+
+Translation: 
+0.25
+0.25
+0.25
+
+
+Factor group operation 9:
+Point group operation: 
+ 0 -1  0
+ 0  0 -1
+-1  0  0
+
+Translation: 
+0.25
+0.25
+0.25
+
+
+Factor group operation 10:
+Point group operation: 
+ 0 -1  0
+ 0  0 -1
+-1  0  0
+
+Translation: 
+0.25
+0.25
+0.25
+
+
+Factor group operation 11:
+Point group operation: 
+-1  0  0
+ 0  0 -1
+ 0 -1  0
+
+Translation: 
+0.25
+0.25
+0.25
+
+
+Factor group operation 12:
+Point group operation: 
+-1  0  0
+ 0  0 -1
+ 0 -1  0
+
+Translation: 
+0.25
+0.25
+0.25
+
+
+Factor group operation 13:
+Point group operation: 
+1 0 0
+0 0 1
+0 1 0
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 14:
+Point group operation: 
+0 1 0
+0 0 1
+1 0 0
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 15:
+Point group operation: 
+0 1 0
+0 0 1
+1 0 0
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 16:
+Point group operation: 
+0 1 0
+0 0 1
+1 0 0
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 17:
+Point group operation: 
+0 0 1
+1 0 0
+0 1 0
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 18:
+Point group operation: 
+0 0 1
+1 0 0
+0 1 0
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 19:
+Point group operation: 
+0 0 1
+1 0 0
+0 1 0
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 20:
+Point group operation: 
+0 0 1
+0 1 0
+1 0 0
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 21:
+Point group operation: 
+0 0 1
+0 1 0
+1 0 0
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 22:
+Point group operation: 
+0 0 1
+0 1 0
+1 0 0
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 23:
+Point group operation: 
+0 1 0
+1 0 0
+0 0 1
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 24:
+Point group operation: 
+0 1 0
+1 0 0
+0 0 1
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 25:
+Point group operation: 
+0 1 0
+1 0 0
+0 0 1
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 26:
+Point group operation: 
+1 0 0
+0 1 0
+0 0 1
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 27:
+Point group operation: 
+1 0 0
+0 1 0
+0 0 1
+
+Translation: 
+0
+0
+0
+
+
+Factor group operation 28:
+Point group operation: 
+1 0 0
+0 1 0
+0 0 1
+
+Translation: 
+0
+0
+0
+
+
+There are 28 operations in the diamond cubic factor group.
+

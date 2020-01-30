@@ -1,0 +1,246 @@
+The point group is closed.
+
+The symmetry operations are: 
+
+Point group operation 1 is: Rotation.
+-1  0  0
+ 0 -1  0
+ 0  0  1
+
+Point group operation 2 is: Mirror.
+ 0 -1  0
+-1  0  0
+ 0  0  1
+
+Point group operation 3 is: Inversion.
+-1  0  0
+ 0 -1  0
+ 0  0 -1
+
+Point group operation 4 is: Rotation.
+ 0 -1  0
+-1  0  0
+ 0  0 -1
+
+Point group operation 5 is: Improper Rotation.
+ 0  0 -1
+ 0 -1  0
+ 1  0  0
+
+Point group operation 6 is: Rotation.
+ 0  0 -1
+-1  0  0
+ 0  1  0
+
+Point group operation 7 is: Rotation.
+ 0  0  1
+ 0 -1  0
+ 1  0  0
+
+Point group operation 8 is: Improper Rotation.
+ 0  0  1
+-1  0  0
+ 0  1  0
+
+Point group operation 9 is: Rotation.
+ 0 -1  0
+ 0  0 -1
+ 1  0  0
+
+Point group operation 10 is: Improper Rotation.
+-1  0  0
+ 0  0 -1
+ 0  1  0
+
+Point group operation 11 is: Improper Rotation.
+ 0 -1  0
+ 0  0  1
+ 1  0  0
+
+Point group operation 12 is: Rotation.
+-1  0  0
+ 0  0  1
+ 0  1  0
+
+Point group operation 13 is: Rotation.
+ 0  0 -1
+ 0 -1  0
+-1  0  0
+
+Point group operation 14 is: Improper Rotation.
+ 0  0  1
+ 0 -1  0
+-1  0  0
+
+Point group operation 15 is: Improper Rotation.
+ 0  0 -1
+-1  0  0
+ 0 -1  0
+
+Point group operation 16 is: Rotation.
+ 0  0  1
+-1  0  0
+ 0 -1  0
+
+Point group operation 17 is: Mirror.
+ 1  0  0
+ 0 -1  0
+ 0  0  1
+
+Point group operation 18 is: Rotation.
+ 1  0  0
+ 0 -1  0
+ 0  0 -1
+
+Point group operation 19 is: Rotation.
+ 0  1  0
+-1  0  0
+ 0  0  1
+
+Point group operation 20 is: Improper Rotation.
+ 0  1  0
+-1  0  0
+ 0  0 -1
+
+Point group operation 21 is: Improper Rotation.
+ 0 -1  0
+ 0  0 -1
+-1  0  0
+
+Point group operation 22 is: Rotation.
+-1  0  0
+ 0  0 -1
+ 0 -1  0
+
+Point group operation 23 is: Rotation.
+ 0 -1  0
+ 0  0  1
+-1  0  0
+
+Point group operation 24 is: Improper Rotation.
+-1  0  0
+ 0  0  1
+ 0 -1  0
+
+Point group operation 25 is: Rotation.
+ 1  0  0
+ 0  0 -1
+ 0  1  0
+
+Point group operation 26 is: Improper Rotation.
+ 0  1  0
+ 0  0 -1
+ 1  0  0
+
+Point group operation 27 is: Mirror.
+1 0 0
+0 0 1
+0 1 0
+
+Point group operation 28 is: Rotation.
+0 1 0
+0 0 1
+1 0 0
+
+Point group operation 29 is: Rotation.
+ 0 -1  0
+ 1  0  0
+ 0  0  1
+
+Point group operation 30 is: Improper Rotation.
+ 0 -1  0
+ 1  0  0
+ 0  0 -1
+
+Point group operation 31 is: Mirror.
+-1  0  0
+ 0  1  0
+ 0  0  1
+
+Point group operation 32 is: Rotation.
+-1  0  0
+ 0  1  0
+ 0  0 -1
+
+Point group operation 33 is: Improper Rotation.
+ 0  0 -1
+ 1  0  0
+ 0  1  0
+
+Point group operation 34 is: Rotation.
+0 0 1
+1 0 0
+0 1 0
+
+Point group operation 35 is: Rotation.
+ 0  0 -1
+ 0  1  0
+ 1  0  0
+
+Point group operation 36 is: Mirror.
+0 0 1
+0 1 0
+1 0 0
+
+Point group operation 37 is: Mirror.
+ 1  0  0
+ 0  0 -1
+ 0 -1  0
+
+Point group operation 38 is: Rotation.
+ 0  1  0
+ 0  0 -1
+-1  0  0
+
+Point group operation 39 is: Rotation.
+ 1  0  0
+ 0  0  1
+ 0 -1  0
+
+Point group operation 40 is: Improper Rotation.
+ 0  1  0
+ 0  0  1
+-1  0  0
+
+Point group operation 41 is: Rotation.
+ 0  0 -1
+ 1  0  0
+ 0 -1  0
+
+Point group operation 42 is: Mirror.
+ 0  0 -1
+ 0  1  0
+-1  0  0
+
+Point group operation 43 is: Improper Rotation.
+ 0  0  1
+ 1  0  0
+ 0 -1  0
+
+Point group operation 44 is: Rotation.
+ 0  0  1
+ 0  1  0
+-1  0  0
+
+Point group operation 45 is: Mirror.
+0 1 0
+1 0 0
+0 0 1
+
+Point group operation 46 is: Identity.
+1 0 0
+0 1 0
+0 0 1
+
+Point group operation 47 is: Rotation.
+ 0  1  0
+ 1  0  0
+ 0  0 -1
+
+Point group operation 48 is: Mirror.
+ 1  0  0
+ 0  1  0
+ 0  0 -1
+
+There are 48 operations in the FCC lattice point group.
+
